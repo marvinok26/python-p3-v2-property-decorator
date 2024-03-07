@@ -40,3 +40,4 @@ class Dog:
             self._breed = breed
         else:
             raise ValueError("Breed must be in list of approved breeds.")
+        
